@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe chamada `Retangulo` com os atributos `largura` e `altura`. Implemente métodos para calcular a área e o perímetro do retângulo. Além disso, forneça métodos para modificar os valores de `largura` e `altura`, garantindo que sejam positivos.

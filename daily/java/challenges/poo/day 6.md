@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Pessoa` com os atributos `nome` e `idade`. Adicione um método que verifique se a pessoa é maior de idade (18 anos ou mais). Crie um método que exiba uma saudação personalizada com o nome da pessoa.

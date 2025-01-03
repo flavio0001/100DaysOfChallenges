@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Produto` com os atributos `nome`, `preco` e `quantidadeEmEstoque`. Adicione um método que permita a venda de uma determinada quantidade do produto, atualizando o estoque e exibindo o valor total da venda. Garanta que não seja possível vender mais do que o disponível em estoque.

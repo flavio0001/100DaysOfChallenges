@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe `ContaCorrente` que herda de `ContaBancaria` e possui um limite de cheque especial. Implemente a lógica necessária para permitir saques que utilizem o cheque especial, garantindo que o limite não seja excedido.

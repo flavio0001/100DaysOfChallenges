@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe chamada `Agenda` que permita armazenar contatos. Cada contato deve ter os atributos `nome`, `telefone` e `email`. Implemente métodos para adicionar um novo contato, remover um contato existente pelo nome e listar todos os contatos armazenados. Garanta que não seja possível adicionar contatos com o mesmo nome.

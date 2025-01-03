@@ -1,0 +1,1 @@
+**Problema:** Escreva um programa em Java que leia uma frase e conte o número de palavras que a compõem. Considere que as palavras são separadas por espaços em branco. O programa deve exibir o total de palavras encontradas.

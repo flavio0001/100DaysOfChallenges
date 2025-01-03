@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe chamada `Aluno` com os atributos `nome`, `matricula` e um array de `notas` (três notas). Implemente métodos para calcular a média das notas e determinar se o aluno foi aprovado (média maior ou igual a 7).

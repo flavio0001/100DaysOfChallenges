@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe chamada `ContaBancaria` que possua os atributos `numeroConta`, `titular` e `saldo`. Adicione métodos para realizar depósitos, saques e consultar o saldo. Garanta que o saldo não fique negativo após um saque.

@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Biblioteca` que gerencia uma coleção de livros. A classe deve permitir adicionar novos livros, remover livros existentes e listar todos os livros disponíveis. Utilize uma estrutura adequada para armazenar os livros.

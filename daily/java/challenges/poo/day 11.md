@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe `Calculadora` com métodos estáticos para realizar as operações básicas: adição, subtração, multiplicação e divisão. Garanta que a divisão por zero seja tratada adequadamente.

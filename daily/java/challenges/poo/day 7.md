@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe `Funcionario` com os atributos `nome`, `salario` e `departamento`. Implemente um método que aplique um aumento salarial baseado em um percentual fornecido. Adicione um método que exiba as informações completas do funcionário.

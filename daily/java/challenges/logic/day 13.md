@@ -1,0 +1,1 @@
+**Problema:** Escreva um programa em Java que leia um número inteiro positivo e determine se ele é um número perfeito. Um número perfeito é aquele que é igual à soma de seus divisores próprios positivos (excluindo ele mesmo). O programa deve exibir uma mensagem indicando o resultado.
