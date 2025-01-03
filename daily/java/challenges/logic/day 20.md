@@ -1,0 +1,1 @@
+**Problema:** Escreva um programa em Java que leia uma matriz 5x5 de números inteiros e verifique se ela é uma matriz identidade. Uma matriz identidade possui 1's na diagonal principal e 0's no restante. O programa deve exibir uma mensagem indicando o resultado.

@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe `Universidade` que gerencie uma lista de cursos. Cada curso deve ter os atributos `nome`, `codigo` e `duracaoEmSemestres`. Adicione métodos para adicionar um novo curso, buscar cursos pelo nome e listar todos os cursos com suas respectivas durações.

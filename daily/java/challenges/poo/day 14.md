@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Empresa` que gerencie uma lista de funcionários. Cada funcionário deve ter os atributos `nome`, `cargo` e `salario`. Adicione métodos para adicionar um novo funcionário, remover um funcionário pelo nome e listar todos os funcionários com seus respectivos cargos e salários.

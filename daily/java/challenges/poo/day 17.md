@@ -1,0 +1,1 @@
+**Problema:** Crie uma classe `Jogo` com os atributos `nome`, `genero` e `plataforma`. Implemente uma classe derivada `JogoOnline` que adicione o atributo `numeroDeJogadores`. Adicione métodos para exibir as informações completas do jogo e verificar se ele é multiplayer (mais de um jogador).

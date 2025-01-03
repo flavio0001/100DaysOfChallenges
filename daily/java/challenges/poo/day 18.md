@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Restaurante` que gerencie um cardápio de pratos. Cada prato deve ter os atributos `nome`, `descricao` e `preco`. Adicione métodos para adicionar um novo prato, remover um prato pelo nome e listar todos os pratos disponíveis com suas descrições e preços.

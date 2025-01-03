@@ -1,0 +1,1 @@
+**Problema:** Escreva um programa em Java que leia uma frase e determine se ela é um palíndromo, desconsiderando espaços e diferenças entre maiúsculas e minúsculas. O programa deve exibir uma mensagem indicando o resultado.

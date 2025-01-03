@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `Loja` que gerencie um inventário de produtos. Cada produto deve ter os atributos `nome`, `preco` e `quantidadeEmEstoque`. Adicione métodos para adicionar novos produtos, atualizar o estoque de um produto existente e calcular o valor total do inventário.

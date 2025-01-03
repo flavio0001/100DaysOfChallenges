@@ -1,0 +1,1 @@
+**Problema:** Implemente uma classe `SistemaDeReservas` que gerencie reservas de quartos de hotel. Cada reserva deve ter os atributos `nomeDoCliente`, `numeroDoQuarto` e `dataDaReserva`. Adicione métodos para criar uma nova reserva, cancelar uma reserva existente pelo nome do cliente e listar todas as reservas ativas.
